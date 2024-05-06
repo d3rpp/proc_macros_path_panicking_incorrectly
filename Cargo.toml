@@ -1,0 +1,6 @@
+[workspace]
+members = [
+	"./crates/gen_test_eg",
+	"./crates/types"
+]
+resolver = "2"
